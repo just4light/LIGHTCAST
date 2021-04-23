@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(178, 178, 240);
+}
+.main{
+    text-align: center;
+    color: rgb(52, 52, 213);
+    border-color: rgb(31, 31, 152);
+    border-radius: 0px;
+    border-width: 5px;
+    border-style: groove;
+    border-spacing: 5px;
+}
